@@ -1,0 +1,12 @@
+[
+    [
+        {
+            "descripcion": "comer",
+            "completada": false
+        },
+        {
+            "descripcion": "estudiar",
+            "completada": true
+        }
+    ]
+]
